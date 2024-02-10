@@ -1,0 +1,14 @@
+/Users/stuat./RiderProjects/Ueberladen/Ueberladen/bin/Debug/net8.0/Ueberladen
+/Users/stuat./RiderProjects/Ueberladen/Ueberladen/bin/Debug/net8.0/Ueberladen.deps.json
+/Users/stuat./RiderProjects/Ueberladen/Ueberladen/bin/Debug/net8.0/Ueberladen.runtimeconfig.json
+/Users/stuat./RiderProjects/Ueberladen/Ueberladen/bin/Debug/net8.0/Ueberladen.dll
+/Users/stuat./RiderProjects/Ueberladen/Ueberladen/bin/Debug/net8.0/Ueberladen.pdb
+/Users/stuat./RiderProjects/Ueberladen/Ueberladen/obj/Debug/net8.0/Ueberladen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stuat./RiderProjects/Ueberladen/Ueberladen/obj/Debug/net8.0/Ueberladen.AssemblyInfoInputs.cache
+/Users/stuat./RiderProjects/Ueberladen/Ueberladen/obj/Debug/net8.0/Ueberladen.AssemblyInfo.cs
+/Users/stuat./RiderProjects/Ueberladen/Ueberladen/obj/Debug/net8.0/Ueberladen.csproj.CoreCompileInputs.cache
+/Users/stuat./RiderProjects/Ueberladen/Ueberladen/obj/Debug/net8.0/Ueberladen.dll
+/Users/stuat./RiderProjects/Ueberladen/Ueberladen/obj/Debug/net8.0/refint/Ueberladen.dll
+/Users/stuat./RiderProjects/Ueberladen/Ueberladen/obj/Debug/net8.0/Ueberladen.pdb
+/Users/stuat./RiderProjects/Ueberladen/Ueberladen/obj/Debug/net8.0/Ueberladen.genruntimeconfig.cache
+/Users/stuat./RiderProjects/Ueberladen/Ueberladen/obj/Debug/net8.0/ref/Ueberladen.dll
